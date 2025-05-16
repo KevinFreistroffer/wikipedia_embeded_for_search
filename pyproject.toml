@@ -1,0 +1,14 @@
+[project]
+name = "embeded-for-search"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mwclient>=0.11.0",
+    "mwparserfromhell>=0.6.6",
+    "openai>=1.78.1",
+    "pandas>=2.2.3",
+    "ruff>=0.11.10",
+    "tiktoken>=0.9.0",
+]
